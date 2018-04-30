@@ -56,7 +56,7 @@ public class Javapad extends JFrame implements ActionListener,WindowListener
 	MenuItem find = new MenuItem("Find...");
 	MenuItem findnext = new MenuItem("Find Next");
 	
-	MenuItem about = new MenuItem("About");
+	MenuItem about = new MenuItem("About the Pad");
 	MenuItem feat = new MenuItem("Features");
 	
 	String flag = "n";
