@@ -9,6 +9,7 @@ package javapad;
  *
  * @author Science Fidelity
  */
+//a project of notepad
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
