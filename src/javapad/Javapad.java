@@ -23,7 +23,7 @@ public class Javapad extends JFrame implements ActionListener,WindowListener
 	int gposcut = 0;
 	String deltree="";
 	String text="";
-	
+	//from netbeans
 	PrinterJob printme = PrinterJob.getPrinterJob();
 	
 	MenuBar mb = new MenuBar();
