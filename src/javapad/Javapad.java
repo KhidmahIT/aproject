@@ -15,6 +15,7 @@ import javax.swing.*;
 import java.io.*;
 import java.awt.print.*;
 import java.util.*;
+// from netbeans
 public class Javapad extends JFrame implements ActionListener,WindowListener
 {
 	int f = -1;
